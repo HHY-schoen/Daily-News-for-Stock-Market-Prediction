@@ -1,5 +1,5 @@
 
-### Use simple ways to predict stock market.
+**Use simple ways to predict stock market.**
 
 =====================================================
 
