@@ -1,4 +1,5 @@
-Use simple ways to predict stock market.
+
+### Use simple ways to predict stock market.
 
 =====================================================
 
@@ -28,5 +29,6 @@ The first column is "Date", the second is "Label", and the following ones are ne
 
 
 ======================================
+
 資料來源
 Sun, J. (2016, August). Daily News for Stock Market Prediction, Version 1. Retrieved [Date You Retrieved This Data] from https://www.kaggle.com/aaron7sun/stocknews.
